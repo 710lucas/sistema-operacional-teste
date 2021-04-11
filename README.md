@@ -1,2 +1,5 @@
-# os-fudido
-uma tentativa besta de fazer um sistema opearacional, eu espero que de certo, mas pode não dar, q nem a maioria das coisas q eu faço
+# Sistema Operacional Fudido
+
+# OBS
+
+**Não espere nada desse projeto, tu so vai ter decepção se tu esperar que ele funcione pelo menos um pouco**
