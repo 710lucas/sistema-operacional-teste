@@ -107,4 +107,4 @@ partition3:
 times 16 db 0
 boot_tag:
 
-dw 0xAA55
+dw 0xaa55
